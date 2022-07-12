@@ -1,2 +1,2 @@
 # strategy-pattern
-A example of the Strategy Pattern as presented in Head First Book and in refactoring.guru
+A example of the Strategy Pattern as presented in Head First Book.
