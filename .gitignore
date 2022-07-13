@@ -5,4 +5,5 @@
 
 #Compiled files
 bin/
+*.class
 
