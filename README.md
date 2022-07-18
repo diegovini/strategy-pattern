@@ -9,7 +9,7 @@
 
 This example uses the following technologies:
 
-- [Java] - Java programming çanguage
+- [Java] - Java programming language
 - [Docker] - An open source containerization platform.
 
 
@@ -18,14 +18,15 @@ This example uses the following technologies:
 You only need [Docker] installed to run this example.
 
 After installing [Docker], follow to the the root folder of the cloned project.
-Then, run the following command to build the [docker] image
+#
+Then, run the following command to build the [docker] image:
 
 ```sh
 docker build -t strategy-pattern .
 
 ```
 
-After the step above, run the following code to run the image as a container...
+After the step above, run the following code to run the image as a container:
 
 ```sh
 docker run strategy-pattern
@@ -54,13 +55,14 @@ Quack! Quack!!
 ```
 
 The rubber duck initially has a quack behaviour and a fly behavior.
+#
 When the rubber ducks get on a space rocket, it's flying and quack behavior change at runtime.
+#
 The same happens when it gets back on Earth.
 
 ###### READMD done with [dillinger]
 
-#
-#
+
 ## License
 
 MIT
