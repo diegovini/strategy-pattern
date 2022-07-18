@@ -18,7 +18,7 @@ This example uses the following technologies:
 You only need [Docker] installed to run this example.
 
 After installing [Docker], follow to the the root folder of the cloned project.
-#
+<br/>
 Then, run the following command to build the [docker] image:
 
 ```sh
@@ -55,9 +55,9 @@ Quack! Quack!!
 ```
 
 The rubber duck initially has a quack behaviour and a fly behavior.
-#
+<br/>
 When the rubber ducks get on a space rocket, it's flying and quack behavior change at runtime.
-#
+<br/>
 The same happens when it gets back on Earth.
 
 ###### READMD done with [dillinger]
